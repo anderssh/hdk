@@ -8,9 +8,7 @@ aux_links:
   GitHub repo: https://github.com/anderssh/hdk
 logo: "/assets/images/logo.png"
 
-# Navigasjonsoppsett
 collections:
   pages:
     output: true
     permalink: /:path/
-
