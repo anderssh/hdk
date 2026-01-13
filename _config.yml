@@ -3,3 +3,14 @@ description: Den offisielle hjemmesiden til Hønefoss dykkerklubb
 theme: just-the-docs
 
 url: https://anderssh.github.io/hdk
+
+aux_links:
+  GitHub repo: https://github.com/anderssh/hdk
+logo: "/assets/images/logo.png"
+
+# Navigasjonsoppsett
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
