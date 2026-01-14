@@ -2,12 +2,11 @@ title: Hønefoss dykkerklubb
 description: Den offisielle hjemmesiden til Hønefoss dykkerklubb
 theme: just-the-docs
 
-url: "https://anderssh.github.io"
-baseurl: "/hdk"
+url: "https://anderssh.github.io/hdk"
 
 aux_links:
   GitHub repo: https://github.com/anderssh/hdk
-logo: /assets/images/logo.png"
+logo: /assets/images/logo.png
 
 
 collections:
