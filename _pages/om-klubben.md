@@ -2,6 +2,7 @@
 title: Om klubben
 layout: default
 nav_order: 2
+nav_enabled: true
 ---
 
 # Om Hønefoss Dykkerklubb
