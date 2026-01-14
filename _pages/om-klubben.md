@@ -1,6 +1,6 @@
 ---
 title: Om klubben
-layout: default
+layout: about
 nav_order: 2
 ---
 
