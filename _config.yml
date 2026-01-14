@@ -7,7 +7,7 @@ baseurl: "/hdk"
 
 aux_links:
   GitHub repo: https://github.com/anderssh/hdk
-logo: "{{ site.baseurl }}/assets/images/logo.png"
+logo: /assets/images/logo.png"
 
 
 collections:
