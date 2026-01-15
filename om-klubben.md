@@ -11,7 +11,7 @@ Hønefoss Dykkerklubb ble stiftet 27. november 1986 for å samle dykkerinteresse
 
 ## Visjon
 
-> Vi skal være et naturlig førstevalg for dykkerentusiaster i Hønefoss og omegn, kjent for vårt engasjement for sikkerhet og godt klubbmiljø, med høy dykkeraktivitet hele året:contentReference[oaicite:0]{index=0}.
+> Vi skal være et naturlig førstevalg for dykkerentusiaster i Hønefoss og omegn, kjent for vårt engasjement for sikkerhet og godt klubbmiljø, med høy dykkeraktivitet hele året.
 
 ## Aktivitetstilbud
 
@@ -22,13 +22,11 @@ Hønefoss Dykkerklubb ble stiftet 27. november 1986 for å samle dykkerinteresse
 
 ## Organisasjon
 
-Styret består per 2024 av:
+Styret består per 2025 av:
 - Leder: Anders Stiksrud Helmen
 - Nestleder: Anders Bratvold
 - Kasserer: Stian Viken Hagen
-- Styremedlemmer: Frank R. Banggren og Sandra Ericsson:contentReference[oaicite:1]{index=1}
+- Styremedlemmer: Frank R. Banggren og Sandra Ericsson.
 
----
 
-For mer informasjon, se [Klubbhåndboka](https://example.com/klubbhandbok.pdf) (lenke kan oppdateres senere).
 
