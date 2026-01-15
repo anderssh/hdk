@@ -10,8 +10,7 @@ logo: /assets/images/logo.png
 
 nav_enabled: true
 
-
-collections:
-  pages:
-    output: true
-    permalink: /:path/
+# collections:
+#   pages:
+#     output: true
+#     permalink: /:path/
