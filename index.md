@@ -6,14 +6,25 @@ nav_order: 1
 
 # Hønefoss Dykkerklubb
 
-Velkommen til Hønefoss Dykkerklubb – et naturlig førstevalg for dykkeentusiaster i Hønefoss og omegn!
+<div class="site-hero">
+  <p>
+    Velkommen til klubben vår. Vi er en inkluderende dykkerklubb med fokus på
+    sikkerhet, aktivitet og godt sosialt miljø for både nye og erfarne dykkere.
+  </p>
+  <div class="quick-links">
+    <a href="{{ '/om-klubben/' | relative_url }}">Om klubben</a>
+    <a href="{{ '/arshjul/' | relative_url }}">Årshjul</a>
+  </div>
+</div>
 
-Vi er en inkluderende klubb med fokus på sikkerhet, aktivitet og sosialt fellesskap – og med mål om å skape gode dykkeopplevelser for både nye og erfarne dykkere. Klubben ble stiftet i 1986 og revitalisert i 2022 med nytt styre og nye mål.
+## Kort om oss
 
-I 2023 gikk klubben til anskaffelse av en Pioner Multi III-båt, som brukes til både dykketurer og ryddeaksjoner under vann. 
+- Stiftet i 1986
+- Revitalisert i 2022 med nytt styre
+- Egen Pioner Multi III-båt til turer og ryddeaksjoner
+- Aktivitet gjennom hele året
 
-Bli med på dykkerturene våre eller følg oss på Spond og Facebook for oppdateringer om aktiviteter!
+## Kontakt
 
----
-📫 Kontakt: anders.s.helmen@gmail.com  
-🏊 Medlemskap fra kr 400,- per år
+- E-post: anders.s.helmen@gmail.com
+- Medlemskap: fra kr 400 per år

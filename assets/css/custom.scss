@@ -1,0 +1,52 @@
+---
+---
+
+.site-hero {
+  padding: 1rem 1.25rem;
+  margin: 1rem 0 1.5rem;
+  border: 1px solid #d5e2f7;
+  border-radius: 10px;
+  background: linear-gradient(135deg, #f2f7ff, #ffffff);
+}
+
+.site-hero p {
+  margin-bottom: 0.75rem;
+}
+
+.quick-links {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.quick-links a {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  border: 1px solid #b7c9e8;
+  border-radius: 999px;
+  text-decoration: none;
+}
+
+.quick-links a:hover {
+  border-color: #6f95d6;
+}
+
+.embed-card {
+  position: relative;
+  width: 100%;
+  padding-bottom: 72%;
+  height: 0;
+  overflow: hidden;
+  border: 1px solid #d6dbe4;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.embed-card iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}

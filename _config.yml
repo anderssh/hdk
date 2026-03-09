@@ -7,10 +7,18 @@ url: "https://anderssh.github.io/hdk"
 aux_links:
   GitHub repo: https://github.com/anderssh/hdk
 logo: /assets/images/logo.png
+custom_css:
+  - custom
 
 nav_enabled: true
+search_enabled: true
+back_to_top: true
+back_to_top_text: "Til toppen"
+permalink: pretty
 
-# collections:
-#   pages:
-#     output: true
-#     permalink: /:path/
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
