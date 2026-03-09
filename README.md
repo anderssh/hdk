@@ -79,11 +79,12 @@ Assuming [Jekyll] and [Bundler] are installed on your computer:
 
 1.  Change your working directory to the root directory of your site.
 
-2.  Run `bundle install`.
+2.  Run `./scripts/jekyll-local.sh` and open `http://localhost:4000`.
 
-3.  Run `bundle exec jekyll serve` to build your site and preview it at `localhost:4000`.
+    This script runs `bundle install` and starts `bundle exec jekyll serve`.
+    It also sets a macOS `CPATH` workaround so native gems can compile on systems where `<iostream>` is not found by default.
 
-    The built site is stored in the directory `_site`.
+3.  The built site is stored in the directory `_site`.
 
 ## Publishing your built site on a different platform
 
