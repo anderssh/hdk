@@ -32,6 +32,7 @@ dykkerturer, samt aktiviteter og kurs i et inkluderende miljø.
 
 ## Utstyr
 
+- Pioner Multi III klubbåt for turer og klubbaktivitet
 - Beach Tech Sweepy strandryddemaskin: tilgjengelig for utlån til medlemmer
 - FIFISH V-EVO 100m undervannsdrone/ROV
 - Ta kontakt hvis du ønsker å leie utstyr eller trenger en jobb utført

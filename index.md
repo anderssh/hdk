@@ -36,6 +36,13 @@ description: Hønefoss Dykkerklubb tilbyr dykkerturer, gratis flaskefylling for 
 
 <div class="asset-grid">
   <div class="asset-card">
+    <p class="info-title">Pioner Multi III klubbåt</p>
+    <p>
+      Klubbens båt brukes til dykketurer, klubbaktiviteter og ryddeaksjoner.
+      Ta kontakt for bruk etter avtale.
+    </p>
+  </div>
+  <div class="asset-card">
     <img src="{{ '/assets/images/sweepy-strandrydder.jpg' | relative_url }}" alt="Beach Tech Sweepy strandryddemaskin">
     <p class="info-title">Beach Tech Sweepy strandryddemaskin</p>
     <p>
