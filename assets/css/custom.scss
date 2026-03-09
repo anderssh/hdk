@@ -45,11 +45,36 @@
   background: linear-gradient(180deg, #f7fbff, #ffffff);
 }
 
-.info-card h3 {
-  margin: 0 0 0.4rem;
-  font-size: 1rem;
+.info-card p {
+  margin: 0;
 }
 
-.info-card p {
+.info-card .info-title {
+  margin-bottom: 0.4rem;
+  font-weight: 600;
+}
+
+.cta-card {
+  padding: 1rem 1.1rem;
+  margin: 0.5rem 0 1.4rem;
+  border: 1px solid #c9dbf6;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #f1f7ff, #ffffff);
+}
+
+.cta-card p,
+.cta-card ul {
+  margin-top: 0;
+}
+
+.activity-card {
+  padding: 0.9rem 1rem;
+  margin: 0.5rem 0 1.4rem;
+  border: 1px solid #d6e5f7;
+  border-radius: 10px;
+  background: #f9fcff;
+}
+
+.activity-card ul {
   margin: 0;
 }

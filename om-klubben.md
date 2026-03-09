@@ -1,6 +1,7 @@
 ---
 title: Om klubben
 nav_order: 2
+description: Om Hønefoss Dykkerklubb, aktivitetstilbud, medlemsfordeler og kontaktinformasjon.
 ---
 
 # Om Hønefoss Dykkerklubb
@@ -25,6 +26,14 @@ dykkerturer, samt aktiviteter og kurs i et inkluderende miljø.
 ## Medlemsfordeler
 
 - Gratis fylling av dykkerflasker for alle medlemmer
+- Medlemskontingent kr 400 per år
+- Innmelding og medlemskommunikasjon i Spond
+
+## Kontakt
+
+- Kontaktperson: Leder Anders S. Helmen
+- E-post: [anders.s.helmen@gmail.com](mailto:anders.s.helmen@gmail.com)
+- [Facebook-gruppe](https://www.facebook.com/groups/850162001677175)
 
 ## Organisasjon
 
@@ -44,3 +53,4 @@ Valgkomite:
 ## Nyttige sider
 
 - [Forside]({{ '/' | relative_url }})
+- [Bli medlem]({{ '/bli-medlem/' | relative_url }})
