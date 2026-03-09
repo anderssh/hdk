@@ -16,6 +16,19 @@ nav_order: 1
   </div>
 </div>
 
+## Medlemsfordeler
+
+<div class="info-grid">
+  <div class="info-card">
+    <h3>Gratis fylling av dykkerflasker</h3>
+    <p>Alle medlemmer får gratis fylling av dykkerflasker.</p>
+  </div>
+  <div class="info-card">
+    <h3>Bassengtrening på Ringeriksbadet</h3>
+    <p>Vi trener hver siste torsdag i måneden.</p>
+  </div>
+</div>
+
 ## Kort om oss
 
 - Stiftet i 1986

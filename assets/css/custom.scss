@@ -30,3 +30,26 @@
 .quick-links a:hover {
   border-color: #6f95d6;
 }
+
+.info-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 0.9rem;
+  margin: 0.6rem 0 1.4rem;
+}
+
+.info-card {
+  padding: 0.9rem 1rem;
+  border: 1px solid #d8e3f3;
+  border-radius: 10px;
+  background: linear-gradient(180deg, #f7fbff, #ffffff);
+}
+
+.info-card h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1rem;
+}
+
+.info-card p {
+  margin: 0;
+}

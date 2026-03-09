@@ -19,7 +19,12 @@ dykkerturer, samt aktiviteter og kurs i et inkluderende miljø.
 - Dykkerturer hele året
 - Sosiale og faglige samlinger
 - Ryddeaksjoner under vann
+- Bassengtrening på Ringeriksbadet hver siste torsdag i måneden
 - Fokus på ungdomsidrett og trygg barneaktivitet
+
+## Medlemsfordeler
+
+- Gratis fylling av dykkerflasker for alle medlemmer
 
 ## Organisasjon
 
