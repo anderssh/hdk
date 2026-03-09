@@ -28,6 +28,13 @@ dykkerturer, samt aktiviteter og kurs i et inkluderende miljø.
 - Gratis fylling av dykkerflasker for alle medlemmer
 - Medlemskontingent kr 400 per år
 - Innmelding og medlemskommunikasjon i Spond
+- Tilgang til klubbens utstyr etter avtale
+
+## Utstyr
+
+- Beach Tech Sweepy strandryddemaskin: tilgjengelig for utlån til medlemmer
+- FIFISH V-EVO 100m undervannsdrone/ROV
+- Ta kontakt hvis du ønsker å leie utstyr eller trenger en jobb utført
 
 ## Kontakt
 
