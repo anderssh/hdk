@@ -38,5 +38,4 @@ Valgkomite:
 
 ## Nyttige sider
 
-- [Årshjul]({{ '/arshjul/' | relative_url }})
 - [Forside]({{ '/' | relative_url }})

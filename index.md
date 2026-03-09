@@ -13,7 +13,6 @@ nav_order: 1
   </p>
   <div class="quick-links">
     <a href="{{ '/om-klubben/' | relative_url }}">Om klubben</a>
-    <a href="{{ '/arshjul/' | relative_url }}">Årshjul</a>
   </div>
 </div>
 
