@@ -9,17 +9,18 @@ description: Hønefoss Dykkerklubb tilbyr dykkerturer, gratis flaskefylling for 
 
 <div class="site-hero">
   <p>
-    Velkommen til klubben vår. Vi er en inkluderende dykkerklubb med fokus på
-    sikkerhet, aktivitet og godt sosialt miljø for både nye og erfarne dykkere.
+    Dykkerklubb for Hønefoss, Ringerike og omegn. Vi samler folk som liker
+    dykking, vannsport, turer og praktisk aktivitet ved og under vann.
   </p>
   <div class="quick-links">
-    <a href="{{ '/om-klubben/' | relative_url }}">Om klubben</a>
     <a href="{{ '/bli-medlem/' | relative_url }}">Bli medlem</a>
+    <a href="{{ '/kontakt/' | relative_url }}">Kontakt oss</a>
+    <a href="{{ '/om-klubben/' | relative_url }}">Om klubben</a>
     <a href="https://www.facebook.com/groups/850162001677175">Facebook</a>
   </div>
 </div>
 
-## Medlemsfordeler
+## For medlemmer
 
 <div class="info-grid">
   <div class="info-card">
@@ -32,14 +33,14 @@ description: Hønefoss Dykkerklubb tilbyr dykkerturer, gratis flaskefylling for 
   </div>
 </div>
 
-## Utstyr for medlemmer og oppdrag
+## Klubbens utstyr
 
 <div class="asset-grid">
-  <div class="asset-card">
+  <div class="asset-card asset-card-feature">
     <p class="info-title">Pioner Multi III klubbåt</p>
     <p>
       Klubbens båt brukes til dykketurer, klubbaktiviteter og ryddeaksjoner.
-      Ta kontakt for bruk etter avtale.
+      <a href="{{ '/kontakt/' | relative_url }}">Ta kontakt</a> for bruk etter avtale.
     </p>
   </div>
   <div class="asset-card">
@@ -55,16 +56,10 @@ description: Hønefoss Dykkerklubb tilbyr dykkerturer, gratis flaskefylling for 
     <p class="info-title">FIFISH V-EVO 100m undervannsdrone/ROV</p>
     <p>
       Vi har undervannsdrone for inspeksjon og dokumentasjon under vann.
-      Ta kontakt ved spørsmål om bruk.
+      <a href="{{ '/kontakt/' | relative_url }}">Ta kontakt</a> ved spørsmål om bruk.
     </p>
   </div>
 </div>
-
-## Kort om oss
-
-- Stiftet i 1986
-- Egen Pioner Multi III-båt til turer og ryddeaksjoner
-- Aktivitet gjennom hele året
 
 ## Kontakt
 

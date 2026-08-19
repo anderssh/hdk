@@ -40,6 +40,7 @@ dykkerturer, samt aktiviteter og kurs i et inkluderende miljø.
 
 - Kontaktperson: Leder Anders S. Helmen
 - E-post: [anders.s.helmen@gmail.com](mailto:anders.s.helmen@gmail.com)
+- [Kontakt oss]({{ '/kontakt/' | relative_url }})
 - [Facebook-gruppe](https://www.facebook.com/groups/850162001677175)
 
 ## Organisasjon
@@ -61,3 +62,4 @@ Valgkomite:
 
 - [Forside]({{ '/' | relative_url }})
 - [Bli medlem]({{ '/bli-medlem/' | relative_url }})
+- [Kontakt]({{ '/kontakt/' | relative_url }})

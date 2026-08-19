@@ -33,4 +33,5 @@ i Ringerike og omegn, og vi jobber for et aktivt og trygt dykkermiljø.
 
 - Kontaktperson: Leder Anders S. Helmen
 - E-post: [anders.s.helmen@gmail.com](mailto:anders.s.helmen@gmail.com)
+- [Kontakt oss]({{ '/kontakt/' | relative_url }})
 - Facebook: [Hønefoss Dykkerklubb](https://www.facebook.com/groups/850162001677175)

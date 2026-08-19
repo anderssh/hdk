@@ -9,7 +9,6 @@ url: "https://anderssh.github.io/hdk"
 aux_links:
   Facebook-gruppe: https://www.facebook.com/groups/850162001677175
   Bli medlem: https://club.spond.com/landing/signup/h%C3%B8nefossdk/form/0FBD1F8E4D7148ED8727D87F8185A55C
-  GitHub repo: https://github.com/anderssh/hdk
 logo: /assets/images/logo.png
 
 nav_enabled: true
@@ -17,6 +16,7 @@ search_enabled: true
 back_to_top: true
 back_to_top_text: "Til toppen"
 permalink: pretty
+footer_content: "Hønefoss Dykkerklubb"
 
 defaults:
   - scope:

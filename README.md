@@ -12,7 +12,9 @@ Publisert side:
 - `index.md`: forsiden
 - `om-klubben.md`: informasjon om klubben, aktivitetstilbud, utstyr og kontakt
 - `bli-medlem.md`: innmelding, medlemsfordeler og Spond-lenke
+- `kontakt.md`: kontaktinfo for medlemskap, utstyr, leie og oppdrag
 - `_config.yml`: Jekyll- og Just the Docs-oppsett
+- `Gemfile.lock`: låste Ruby-gems for forutsigbare bygg
 - `_sass/custom/custom.scss`: lokal styling for siden
 - `assets/images/`: logo og bilder av klubbens utstyr
 
