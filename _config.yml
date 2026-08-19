@@ -16,7 +16,7 @@ search_enabled: true
 back_to_top: true
 back_to_top_text: "Til toppen"
 permalink: pretty
-footer_content: "Hønefoss Dykkerklubb"
+footer_content: "Hønefoss Dykkerklubb. Bygget med Jekyll og Just the Docs."
 
 defaults:
   - scope:
