@@ -12,8 +12,8 @@ dykkerturer, samt aktiviteter og kurs i et inkluderende miljø.
 
 ## Visjon
 
-> Vi skal være et naturlig førstevalg for dykkerentusiaster i Hønefoss og
-> omegn, kjent for engasjement for sikkerhet og godt klubbmiljø.
+> Hønefoss Dykkerklubb skal være et naturlig førstevalg for dykkerentusiaster i Hønefoss og omegn, 
+> kjent for sitt engasjement for sikkerhet og godt klubbmiljø, med høy dykkeraktivitet gjennom hele året. 
 
 ## Aktivitetstilbud
 
@@ -45,18 +45,18 @@ dykkerturer, samt aktiviteter og kurs i et inkluderende miljø.
 
 ## Organisasjon
 
-Styret består per 2025 av:
+Styret består per 2026 av:
 
 - **Leder**: Anders Stiksrud Helmen
 - **Nestleder**: Anders Bratvold
 - **Kasserer**: Stian Viken Hagen
-- **Styremedlemmer**: Frank R. Banggren og Sandra Ericsson
+- **Styremedlemmer**: Andrius Mažeikis og Sandra Ericsson
 
 Valgkomite:
 
-- **Leder**: Thomas Warming
-- **Medlem**: Hanne Opseth
-- **Vara**: Anna Brøyn
+- **Leder**: Anna Brøyn
+- **Medlem**: Tove Kristin Sjøblom
+- **Vara**: Frank R. Banggren
 
 ## Nyttige sider
 
