@@ -4,7 +4,8 @@ theme: just-the-docs
 lang: nb-NO
 locale: nb_NO
 
-url: "https://anderssh.github.io/hdk"
+url: "https://hfsdykkerklubb.no"
+baseurl: ""
 
 aux_links:
   Facebook-gruppe: https://www.facebook.com/groups/850162001677175

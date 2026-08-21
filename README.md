@@ -5,7 +5,7 @@ Jekyll og temaet Just the Docs, og publiseres med GitHub Pages.
 
 Publisert side:
 
-<https://anderssh.github.io/hdk>
+<https://hfsdykkerklubb.no>
 
 ## Innhold
 
